@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+  }
+  h1 {
+    color: blue;
+    background-color: yellow;
+  }
+  h2 {
+    background-color: yellow;
+  }
+  p {
+    color: green;
+    background-color: yellow;
+  }
+  ol {
+    background-color: yellow;
+  }
